@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NpHttpServerApp", "NpHttpServerApp\NpHttpServerApp.csproj", "{ED7CED79-3BBD-420D-9374-D18E166CF7AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NpHttpClientApp", "NpHttpClientApp\NpHttpClientApp.csproj", "{844524F4-75DB-451B-AA5A-040EBBB81937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED7CED79-3BBD-420D-9374-D18E166CF7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7CED79-3BBD-420D-9374-D18E166CF7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7CED79-3BBD-420D-9374-D18E166CF7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7CED79-3BBD-420D-9374-D18E166CF7AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{844524F4-75DB-451B-AA5A-040EBBB81937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844524F4-75DB-451B-AA5A-040EBBB81937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844524F4-75DB-451B-AA5A-040EBBB81937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844524F4-75DB-451B-AA5A-040EBBB81937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44304507-876D-4DED-BFBF-7CDDF3376D67}
+	EndGlobalSection
+EndGlobal
